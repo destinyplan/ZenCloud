@@ -1,3 +1,4 @@
+#yln do something
 #定义一个函数
 #这个函数的功能是判断是否胜利
 def Win(fivemap,key):
